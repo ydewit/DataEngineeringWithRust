@@ -1,6 +1,4 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Data Engineering with Rust
 
-## References
+Code for Coursera's Data Engineering with Rust course.
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
